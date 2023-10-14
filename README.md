@@ -1,7 +1,5 @@
 # SevenCode-Titanic Survival Prediction
 
-# Titanic Survival Prediction
-
 This repository contains code and resources for predicting the survival of passengers on the Titanic using machine learning. The dataset includes 12 features, and we utilize Python and various machine learning algorithms to determine the survival status of individuals who were aboard the Titanic.
 
 ## Table of Contents
